@@ -22,4 +22,4 @@ The document covers:
 ## Next Steps  
 This is an evolving concept that invites discussion, collaboration, and further refinement. Any feedback or insights are welcome.  
 
-📄 **Read the full white paper [here](<ссылка на PDF>)**  
+📄 **Read the full white paper [here](<https://github.com/Trisosiski/Crypto-Fiat-Synergy-White-Paper/blob/main/White%20Paper.pdf>)**  
