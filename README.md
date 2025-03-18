@@ -21,3 +21,5 @@ The document covers:
 
 ## Next Steps  
 This is an evolving concept that invites discussion, collaboration, and further refinement. Any feedback or insights are welcome.  
+
+📄 **Read the full white paper [here](<ссылка на PDF>)**  
