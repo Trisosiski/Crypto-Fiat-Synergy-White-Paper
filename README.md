@@ -23,3 +23,9 @@ The document covers:
 This is an evolving concept that invites discussion, collaboration, and further refinement. Any feedback or insights are welcome.  
 
 📄 **Read the full white paper [here](<https://github.com/Trisosiski/Crypto-Fiat-Synergy-White-Paper/blob/main/White%20Paper.pdf>)**  
+
+## License
+
+This white paper is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© 2025 Roman Nesterov (Samposebe). All rights reserved.
