@@ -48,3 +48,4 @@ This work is officially registered with the **Canadian Intellectual Property Off
 **Filing Type:** Copyright in Work  
 **Date of Registration:** April 24, 2025  
 **Certificate (PDF):** [View Certificate](./White%20Paper.pdf)
+**Copyright Certificate (PDF):** [View Certificate](./Copyright-Certificate.pdf)
