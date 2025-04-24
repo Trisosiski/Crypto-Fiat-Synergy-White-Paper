@@ -37,3 +37,14 @@ This white paper is licensed under a [Creative Commons Attribution-NonCommercial
 This white paper is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 © 2025 Roman Nesterov (Samposebe). All rights reserved.
+
+---
+
+### Copyright Registration
+
+This work is officially registered with the **Canadian Intellectual Property Office (CIPO)**.  
+**Registration Number:** `1232689`  
+**Title:** *Crypto & Fiat Synergy: A Framework for Crypto-Fiat Collaboration*  
+**Filing Type:** Copyright in Work  
+**Date of Registration:** April 24, 2025  
+**Certificate (PDF):** [View Certificate](./White%20Paper.pdf)
