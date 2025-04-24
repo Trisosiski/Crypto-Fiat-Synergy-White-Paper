@@ -49,3 +49,14 @@ This work is officially registered with the **Canadian Intellectual Property Off
 **Date of Registration:** April 24, 2025  
 **Certificate (PDF):** [View Certificate](./White%20Paper.pdf)
 **Copyright Certificate (PDF):** [View Certificate](./Copyright-Certificate.pdf)
+
+This work is officially registered with the **Canadian Intellectual Property Office (CIPO)**.
+
+- **Registration Number:** 1232689  
+- **Title:** *Crypto & Fiat Synergy: A Framework for Crypto-Fiat Collaboration*  
+- **Filing Type:** Copyright in Work  
+- **Date of Registration:** April 24, 2025  
+- **Certificate (PDF):** [View Certificate](./Copyright-Certificate.pdf)
+
+All rights to this work are legally protected under Canadian copyright law.
+For inquiries, proposals, or collaboration, please contact **roman.m.nesterov@gmail.com**.
